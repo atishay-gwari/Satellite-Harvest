@@ -203,6 +203,7 @@ It's that simple! This tool can be a game-changer for farmers, helping you plan 
 
 So, go ahead, upload your data, make your selections, and let's predict your crop yield! 🌱🌞🌧️"""
     )
+    st.image('./image/corn.jpg',use_column_width=True)
 
 with col2:
     left_column()
