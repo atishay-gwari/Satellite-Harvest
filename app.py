@@ -110,7 +110,6 @@ def preprocess_and_predict(user_state, path_dict, model_choice):
 
     return predicted_yield
 
-
 st.set_page_config(layout="wide")
 
 
